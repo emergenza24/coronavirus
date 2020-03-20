@@ -1,0 +1,173 @@
+;;Paese/Location;Casi conf;Morti;Guariti;In corso
+1;;China;80967;3248;70420;7299
+2;;Italy;47021;4032;5129;37860
+3;;Spain;20410;1041;1588;17781
+4;;Iran;19644;1433;6745;11466
+5;;Germany;16666;44;115;16507
+6;;United States;15777;208;26;15543
+7;;France;10995;372;12;10611
+8;;South Korea;8652;94;2233;6325
+9;;Switzerland;4164;43;4;4117
+10;;United Kingdom;3269;144;65;3060
+11;;Netherlands;2994;106;2;2886
+12;;Austria;2203;7;9;2187
+13;;Belgium;1795;21;31;1743
+14;;Norway;1781;7;;1774
+15;;Sweden;1423;11;;1412
+16;;Denmark;1223;6;;1217
+17;;Japan;967;33;215;719
+18;;Malaysia;900;2;75;823
+19;;Canada;863;12;12;839
+20;;Australia;800;7;30;763
+21;;Diamond Princess;712;7;551;154
+22;;Czech Republic;694;0;3;691
+23;;Israel;677;0;14;663
+24;;Brazil;647;7;1;639
+25;;Ireland;557;3;;554
+26;;Greece;464;6;10;448
+27;;Pakistan;461;3;5;453
+28;;Qatar;460;0;4;456
+29;;Finland;400;0;10;390
+30;;Indonesia;369;32;17;320
+31;;Turkey;359;4;;355
+32;;Poland;355;5;0;350
+33;;Singapore;345;0;124;221
+34;;Chile;342;0;;342
+35;;Luxembourg;335;4;;331
+36;;Iceland;330;0;5;325
+37;;Thailand;322;1;43;278
+38;;Slovenia;319;1;0;318
+39;;Bahrain;279;1;110;168
+40;;Romania;277;0;25;252
+41;;Saudi Arabia;274;0;8;266
+42;;Estonia;267;0;1;266
+43;;Egypt;256;7;28;221
+44;;Hong Kong;256;4;98;154
+45;;Peru;234;3;2;229
+46;;Philippines;230;18;8;204
+47;;India;223;4;15;204
+48;;South Africa;202;0;;202
+49;;Ecuador;199;3;;196
+50;;Russia;199;1;5;193
+51;;Iraq;192;13;49;130
+52;;Mexico;164;1;3;160
+53;;Lebanon;163;4;3;156
+54;;Kuwait;159;0;22;137
+55;;San Marino;140;14;4;122
+56;;United Arab Emirates;140;0;31;109
+57;;Panama;137;1;0;136
+58;;Armenia;136;0;1;135
+59;;Taiwan;135;2;28;105
+60;;Argentina;128;3;;125
+61;;Colombia;128;0;;128
+62;;Slovakia;123;0;;123
+63;;Serbia;118;0;;118
+64;;Bulgaria;112;3;;109
+65;;Latvia;111;0;;111
+66;;Croatia;110;1;4;105
+67;;Portugal;102;6;5;91
+68;;Uruguay;94;0;2;92
+69;;Costa Rica;87;2;;85
+70;;Vietnam;87;0;17;70
+71;;Hungary;85;3;7;75
+72;;Algeria;82;8;10;64
+73;;Andorra;74;0;;74
+74;;Brunei;73;0;0;73
+75;;Bosnia;69;0;2;67
+76;;Jordan;69;0;1;68
+77;;Cyprus;67;0;;67
+78;;North Macedonia;67;0;1;66
+79;;Morocco;66;3;2;61
+80;;Albania;64;2;0;62
+81;;Malta;64;0;2;62
+82;;Sri Lanka;59;0;1;58
+83;;Belarus;57;0;15;42
+84;;Moldova;49;1;1;47
+85;;Kazakhstan;49;0;;49
+86;;Lithuania;48;0;1;47
+87;;Oman;48;0;13;35
+88;;Palestine;48;0;17;31
+89;;Cambodia;47;0;1;46
+90;;Azerbaijan;44;1;10;33
+91;;Georgia;43;0;1;42
+92;;Venezuela;42;0;;42
+93;;Tunisia;39;1;1;37
+94;;New Zealand;39;0;;39
+95;;Senegal;38;0;5;33
+96;;Dominican Republic;34;2;;32
+97;;Burkina Faso;33;1;;32
+98;;Northern Cyprus;33;0;;33
+99;;Uzbekistan;33;0;;33
+100;;Liechtenstein;28;0;;28
+101;;Ukraine;26;3;;23
+102;;Honduras;24;0;;24
+103;;Afghanistan;22;0;1;21
+104;;Cameroon;21;0;2;19
+105;;Kosovo;21;0;;21
+106;;Bangladesh;20;1;;19
+107;;DR Congo;18;0;;18
+108;;Macau;17;0;10;7
+109;;Cuba;16;1;;15
+110;;Jamaica;16;1;;15
+111;;Ghana;16;0;;16
+112;;Bolivia;15;0;;15
+113;;Maldives;13;0;;13
+114;;Montenegro;13;0;;13
+115;;Paraguay;13;0;;13
+116;;Nigeria;12;0;0;12
+117;;French Polynesia;11;0;;11
+118;;Monaco;11;0;1;10
+119;;Rwanda;11;0;;11
+120;;Gibraltar;10;0;2;8
+121;;Jersey;10;0;;10
+122;;Guatemala;9;1;;8
+123;;Ethiopia;9;0;;9
+124;;Ivory Coast;9;0;;9
+125;;Togo;9;0;1;8
+126;;Trinidad and Tobago;9;0;;9
+127;;Kenya;7;0;;7
+128;;Mauritius;7;0;;7
+129;;Seychelles;7;0;;7
+130;;Equatorial Guinea;6;0;;6
+131;;Mongolia;6;0;;6
+132;;Tanzania;6;0;;6
+133;;Aruba;5;0;1;4
+134;;Barbados;5;0;;5
+135;;Guyana;5;0;;5
+136;;Suriname;4;0;;4
+137;;Cayman Islands;3;1;;2
+138;;Curaçao;3;1;;2
+139;;Bahamas;3;0;;3
+140;;Congo Republic;3;0;;3
+141;;Gabon;3;0;;3
+142;;Kyrgyzstan;3;0;;3
+143;;Namibia;3;0;;3
+144;;Benin;2;0;;2
+145;;Bhutan;2;0;;2
+146;;Greenland;2;0;;2
+147;;Guinea;2;0;;2
+148;;Haiti;2;0;;2
+149;;Liberia;2;0;;2
+150;;Mauritania;2;0;;2
+151;;New Caledonia;2;0;;2
+152;;Saint Lucia;2;0;;2
+153;;Zambia;2;0;0;2
+154;;Sudan;1;1;;0
+155;;Antigua and Barbuda;1;0;0;1
+156;;Central African Republic;1;0;;1
+157;;Chad;1;0;;1
+158;;Djibouti;1;0;;1
+159;;El Salvador;1;0;;1
+160;;Eswatini;1;0;;1
+161;;Fiji;1;0;0;1
+162;;Gambia;1;0;;1
+163;;Guernsey;1;0;;1
+164;;Isle of Man;1;0;;1
+165;;Montserrat;1;0;;1
+166;;Nepal;1;0;1;0
+167;;Nicaragua;1;0;;1
+168;;Niger;1;0;;1
+169;;Saint Vincent and the Grenadines;1;0;;1
+170;;Sint Maarten;1;0;0;1
+171;;Somalia;1;0;;1
+172;;Vatican City;1;0;;1
