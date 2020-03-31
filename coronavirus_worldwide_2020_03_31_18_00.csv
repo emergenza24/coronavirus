@@ -1,0 +1,197 @@
+WORLD;Cases;Deaths;Recovered
+United States;185209;3780;4964
+Italy;105792;12428;15729
+Spain;95923;8464;19259
+China;81518;3305;76052
+Germany;68355;6660;17447
+France;52128;3523;9444
+Iran;44606;2898;14656
+United Kingdom;25150;1789;135
+Switzerland;16176;388;2105
+Turkey;13531;214;243
+Belgium;12775;705;1696
+Netherlands;12595;1039;2
+Austria;9920;128;1095
+South Korea;9786;162;5408
+Canada;8504;96;1161
+Portugal;7443;160;43
+Brazil;5717;201;1
+Israel;5385;20;224
+Norway;4593;35;
+Australia;4559;18;358
+Sweden;4028;146;
+Ireland;3235;71;
+Czech Republic;3002;24;25
+Denmark;2984;90;3
+Malaysia;2766;43;537
+Chile;2738;12;156
+Russia;2337;17;121
+Poland;2311;33;
+Romania;2245;69;220
+Ecuador;2240;75;54
+Philippines;2084;88;49
+Japan;2193;59;424
+Luxembourg;2178;23;
+Pakistan;1876;25;58
+Thailand;1651;10;97
+Saudi Arabia;1563;10;165
+Indonesia;1528;136;81
+Finland;1384;13;10
+South Africa;1353;5;31
+India;1251;32;101
+Greece;1212;43;52
+Iceland;1135;2;157
+Mexico;1094;28;23
+Panama;1075;26;9
+Peru;1065;18;394
+Argentina;966;24;63
+Singapore;926;3;228
+Colombia;906;16;31
+Dominican Republic;901;42;4
+Serbia;900;16;
+Croatia;867;6;67
+Slovenia;802;15;6
+Estonia;745;4;26
+Hong Kong;715;4;128
+Diamond Princess;712;11;603
+Qatar;693;1;51
+Egypt;656;41;150
+New Zealand;647;1;74
+Ukraine;645;17;10
+Iraq;630;46;152
+Morocco;617;36;24
+United Arab Emirates;611;3;61
+Algeria;584;35;77
+Bahrain;567;4;316
+Lithuania;533;7;7
+Hungary;492;16;37
+Armenia;482;3;30
+Lebanon;463;12;35
+Bosnia;420;13;17
+Latvia;398;0;
+Tunisia;394;10;1
+Bulgaria;379;8;17
+Andorra;376;12;10
+Slovakia;363;0;2
+Moldova;353;4;22
+Costa Rica;347;2;2
+Kazakhstan;336;0;
+Uruguay;320;1;25
+Taiwan;306;2;39
+North Macedonia;285;7;12
+Jordan;274;5;30
+Azerbaijan;273;4;26
+Kuwait;266;0;72
+Burkina Faso;246;12;31
+Albania;243;13;52
+San Marino;230;25;13
+Cyprus;230;7;1
+Vietnam;207;0;57
+Oman;192;0;34
+Senegal;175;0;40
+Uzbekistan;172;2;7
+Cuba;170;4;4
+Malta;169;0;2
+Ivory Coast;169;0;4
+Ghana;161;5;3
+Belarus;152;1;47
+Afghanistan;145;4;3
+Mauritius;143;4;
+Sri Lanka;143;2;17
+Cameroon;142;6;5
+Honduras;141;7;3
+Nigeria;139;2;9
+Venezuela;129;3;31
+Brunei;129;1;45
+Palestine;117;1;17
+Kosovo;112;1;6
+Georgia;110;0;21
+Cambodia;109;0;23
+Bolivia;107;6;0
+DR Congo;98;8;3
+Kyrgyzstan;94;0;3
+Montenegro;91;2;
+Trinidad and Tobago;85;3;1
+Jersey;81;2;
+Guernsey;78;1;
+Rwanda;70;0;0
+Northern Cyprus;69;0;3
+Gibraltar;69;0;35
+Paraguay;64;3;
+Liechtenstein;62;0;
+Isle of Man;60;0;
+Kenya;59;1;1
+Aruba;55;0;1
+Bangladesh;49;5;11
+Monaco;46;1;1
+Madagascar;46;0;0
+Uganda;44;0;
+Macau;38;0;10
+Guatemala;38;1;10
+Jamaica;36;1;1
+French Polynesia;36;0;
+Zambia;35;0;0
+Togo;34;1;10
+Barbados;33;0;0
+Bermuda;32;0;10
+El Salvador;30;0;
+Mali;26;2;0
+Djibouti;26;0;0
+Ethiopia;25;0;2
+Guinea;22;1;1
+Niger;20;3;
+Congo Republic;19;0;
+Tanzania;19;1;1
+Maldives;18;0;13
+New Caledonia;15;0;
+Haiti;15;0;
+Myanmar;14;1;0
+Bahamas;14;0;1
+Equatorial Guinea;14;0;
+Cayman Islands;14;1;
+Eritrea;12;0;0
+Mongolia;12;0;2
+Guyana;12;2;
+Curaçao;11;1;
+Namibia;11;0;0
+Syria;10;2;0
+Greenland;10;0;2
+Seychelles;10;0;0
+Eswatini;9;0;0
+Saint Lucia;9;0;1
+Grenada;9;0;0
+Laos;9;0;
+Suriname;8;0;
+Mozambique;8;0;0
+Libya;8;0;0
+Angola;7;2;
+Gabon;7;1;
+Zimbabwe;7;1;0
+Antigua and Barbuda;7;0;0
+St. Kitts and Nevis;7;0;0
+Sudan;6;2;
+Cape Verde;6;1;
+Benin;6;0;1
+Central African Republic;6;0;3
+Sint Maarten;6;0;0
+Vatican City;6;0;
+Fiji;5;0;0
+Montserrat;5;0;
+Chad;5;0;
+Mauritania;5;0;3
+Nepal;5;0;1
+Turks and Caicos Islands;5;0;0
+The Gambia;4;1;
+Nicaragua;4;1;0
+Bhutan;4;0;
+Liberia;3;0;
+Somalia;3;0;
+Belize;3;0;0
+British Virgin Islands;2;0;0
+Guinea-Bissau;2;0;0
+Timor-Leste;1;0;
+Papua New Guinea;1;0;0
+Saint Vincent and the Grenadines;1;0;
+TBD;;;
+TOTAL;858547;41838;17585
+;Cases;Deaths;Recovered
