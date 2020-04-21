@@ -1,0 +1,208 @@
+;;ASSOLUTI;2479498;168900;609684;1700914
+;;TOTALE AUTOM;2479498;168900;609684;1700917
+;;Paese/Location;Casi conf;Morti;Guariti;In corso
+1;;United States;790480;42214;52184;696082
+2;;Spain;200210;21238;77357;101615
+3;;Italy;181228;24114;48877;108237
+4;;France;155383;20265;37409;97709
+5;;Germany;147139;4865;87500;54774
+6;;United Kingdom;124743;16509;1918;106316
+7;;Turkey;90980;2140;13430;75410
+8;;China;88423;4632;81785;2006
+9;;Iran;83505;5209;59273;19023
+10;;Russia;47121;405;3446;43270
+11;;Brazil;40581;2575;14026;23980
+12;;Belgium;39983;5828;8757;25398
+13;;Canada;36831;1690;11230;23911
+14;;Netherlands;33405;3751;3459;26195
+15;;Switzerland;27469;1393;15900;10176
+16;;Portugal;20863;735;610;19518
+17;;India;17357;560;2859;13938
+18;;Peru;16325;445;6968;8912
+19;;Ireland;15652;687;;14965
+20;;Sweden;14777;158;;14619
+21;;Austria;14755;470;10631;3654
+22;;Israel;13713;177;4049;9487
+23;;Japan;10810;238;1069;9503
+24;;South Korea;10674;236;7937;2501
+25;;Chile;10507;139;4476;5892
+26;;Saudi Arabia;10484;103;1490;8891
+27;;Ecuador;10128;507;1150;8471
+28;;Poland;9593;380;981;8232
+29;;Romania;8936;478;2017;6441
+30;;Mexico;8772;712;2451;5609
+31;;Pakistan;8425;176;197;8052
+32;;Denmark;7700;364;4489;2847
+33;;United Arab Emirates;7265;43;136;7086
+34;;Singapore;7213;11;801;6401
+35;;Norway;7112;165;;6947
+36;;Czech Republic;6900;194;1559;5147
+37;;Indonesia;6760;590;747;5423
+38;;Serbia;6630;125;870;5635
+39;;Australia;6547;67;4124;2356
+40;;Philippines;6459;428;613;5418
+41;;Belarus;6264;51;514;5699
+42;;Qatar;6015;9;555;5451
+43;;Ukraine;5710;151;359;5200
+44;;Malaysia;5425;89;3295;2041
+45;;Dominican Republic;4964;235;416;4313
+46;;Panama;4467;126;165;4176
+47;;Colombia;3977;189;804;2984
+48;;Finland;3868;98;2000;1770
+49;;Luxembourg;3558;75;637;2846
+50;;Egypt;3333;250;821;2262
+51;;South Africa;3300;58;1055;2187
+52;;Morocco;3046;143;350;2553
+53;;Bangladesh;2948;101;85;2762
+54;;Argentina;2941;136;737;2068
+55;;Thailand;2792;47;1999;746
+56;;Algeria;2718;384;1099;1235
+57;;Moldova;2548;70;478;2000
+58;;Greece;2245;116;269;1860
+59;;Kuwait;1995;9;367;1619
+60;;Hungary;1984;199;267;1518
+61;;Bahrain;1907;7;773;1127
+62;;Croatia;1881;47;771;1063
+63;;Iceland;1773;10;1362;401
+64;;Kazakhstan;1711;19;401;1291
+65;;Uzbekistan;1627;5;261;1361
+66;;Iraq;1574;82;1043;449
+67;;Estonia;1535;40;165;1330
+68;;New Zealand;1440;12;974;454
+69;;Azerbaijan;1436;19;791;626
+70;;Oman;1410;7;238;1165
+71;;Slovenia;1335;77;120;1138
+72;;Lithuania;1326;36;242;1048
+73;;Bosnia;1309;49;381;879
+74;;Armenia;1248;20;523;705
+75;;North Macedonia;1225;54;200;971
+76;;Cameroon;1136;42;305;789
+77;;Slovakia;1089;11;213;865
+78;;Cuba;1087;36;285;766
+79;;Charles de Gaulle ship;1081;0;0;1081
+80;;Afghanistan;1026;36;89;901
+81;;Hong Kong;1026;4;630;392
+82;;Bulgaria;915;43;167;705
+83;;Tunisia;866;37;42;787
+84;;Ghana;834;9;99;726
+85;;Ivory Coast;801;8;239;554
+86;;Cyprus;761;12;86;663
+87;;Latvia;739;5;88;646
+88;;Djibouti;732;2;76;654
+89;;Andorra;717;36;248;433
+90;;Diamond Princess;712;13;644;55
+91;;Lebanon;677;21;103;553
+92;;Nigeria;665;22;188;455
+93;;Costa Rica;662;6;124;532
+94;;Niger;639;19;113;507
+95;;Albania;584;26;327;231
+96;;Burkina Faso;565;36;321;208
+97;;Bolivia;564;33;31;500
+98;;Uruguay;528;10;298;220
+99;;Guinea;518;3;65;450
+100;;Kosovo;510;12;93;405
+101;;Kyrgyzstan;506;5;130;371
+102;;Honduras;477;46;15;416
+103;;San Marino;462;39;61;362
+104;;Malta;431;3;126;302
+105;;Taiwan;422;6;203;213
+106;;Jordan;413;7;269;137
+107;;Georgia;402;4;95;303
+108;;Senegal;377;5;235;137
+109;;DR Congo;327;25;26;276
+110;;Mauritius;325;9;180;136
+111;;Palestine;313;2;69;242
+112;;Montenegro;311;5;60;246
+113;;Sri Lanka;304;7;98;199
+114;;Isle of Man;300;9;200;91
+115;;Vietnam;268;0;201;67
+116;;Kenya;262;13;60;189
+117;;Jersey;245;12;;233
+118;;Guernsey;239;9;73;157
+119;;Guatemala;235;7;21;207
+120;;Venezuela;227;9;117;101
+121;;El Salvador;218;7;46;165
+122;;Mali;216;13;41;162
+123;;Paraguay;208;8;46;154
+124;;Jamaica;163;5;26;132
+125;;Tanzania;147;5;11;131
+126;;Rwanda;147;0;80;67
+127;;Congo Republic;143;6;11;126
+128;;Brunei;138;1;116;21
+129;;Somalia;135;7;2;126
+130;;Gibraltar;132;0;120;12
+131;;Cambodia;122;0;103;19
+132;;Madagascar;117;0;33;84
+133;;Trinidad and Tobago;114;8;22;84
+134;;Gabon;109;1;7;101
+135;;Northern Cyprus;108;4;81;23
+136;;Ethiopia;105;3;16;86
+137;;Myanmar;98;5;5;88
+138;;Aruba;97;2;51;44
+139;;Monaco;94;1;20;73
+140;;Bermuda;83;5;35;43
+141;;Togo;83;5;48;30
+142;;Liechtenstein;80;1;55;24
+143;;Equatorial Guinea;79;0;4;75
+144;;Liberia;76;7;4;65
+145;;Barbados;75;5;15;55
+146;;Bahamas;64;9;11;44
+147;;Cayman Islands;61;1;7;53
+148;;Sint Maarten;57;9;12;36
+149;;Guyana;57;6;9;42
+150;;Cape Verde;56;1;1;54
+151;;Uganda;56;0;20;36
+152;;French Polynesia;55;0;;55
+153;;Zambia;52;2;30;20
+154;;Guinea-Bissau;50;0;3;47
+155;;Libya;49;1;11;37
+156;;Macau;45;0;16;29
+157;;Haiti;44;3;;41
+158;;Disputed territories;44;1;3;40
+159;;Syria;38;2;5;31
+160;;Benin;35;1;18;16
+161;;Eritrea;35;0;0;35
+162;;Mozambique;34;0;2;32
+163;;Chad;33;0;8;25
+164;;Sudan;32;5;3;24
+165;;Mongolia;31;0;5;26
+166;;Nepal;30;0;1;29
+167;;Maldives;28;0;16;12
+168;;Sierra Leone;26;0;0;26
+169;;Zimbabwe;24;3;2;19
+170;;Antigua and Barbuda;23;2;3;18
+171;;Angola;19;2;2;15
+172;;Eswatini;19;1;8;10
+173;;Laos;19;0;2;17
+174;;Belize;18;2;0;16
+175;;New Caledonia;18;0;1;17
+176;;Timor-Leste;18;0;1;17
+177;;Malawi;17;2;;15
+178;;Fiji;17;0;0;17
+179;;Namibia;16;0;3;13
+180;;Botswana;15;1;;14
+181;;Curaçao;15;1;10;4
+182;;Saint Lucia;15;0;11;4
+183;;Grenada;14;0;0;14
+184;;St. Kitts and Nevis;14;0;0;14
+185;;Central African Republic;12;0;4;8
+186;;Saint Vincent and the Grenadines;12;0;1;11
+187;;Turks and Caicos Islands;11;1;0;10
+188;;Falkland Islands;11;0;2;9
+189;;Greenland;11;0;11;0
+190;;Montserrat;11;0;2;9
+191;;Seychelles;11;0;5;6
+192;;Nicaragua;10;1;5;4
+193;;Suriname;10;1;6;3
+194;;The Gambia;10;1;2;7
+195;;Vatican City;9;0;2;7
+196;;Mauritania;7;1;2;4
+197;;Papua New Guinea;7;0;1;6
+198;;St. Barthélemy;6;0;4;2
+199;;Burundi;5;1;4;0
+200;;Bhutan;5;0;2;3
+201;;British Virgin Islands;5;0;3;2
+202;;São Tomé and Príncipe;4;0;;4
+203;;South Sudan;4;0;;4
+204;;Anguilla;3;0;1;3
+205;;Yemen;1;0;;3
